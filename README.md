@@ -11,3 +11,11 @@
 7. Stack
 8. Exhaustive Recursion
 9. Mixed Recall
+
+```java
+public static void main(String[] args) {
+    System.out.println("""
+            All the solutions are based with JAVA !!!
+            """);
+}
+```
