@@ -35,3 +35,5 @@ public static void main(String[] args) {
 1. Time complexity of finding a specified key in ***HashMap*** is O(1).
 2. If you put same key with different value , only last input is what you can get.
 3. If there is no key , what returns is *NUll*.
+4. Two pointers approach is used in finding solution comparing each element list or array instead of nested looping which made time complexity double.
+5. 
