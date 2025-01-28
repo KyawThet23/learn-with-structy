@@ -1,7 +1,6 @@
 package arrayAndString;
 
 /*
-
 *  We used two pointers approach to solve this.
 *  Pointers refer to index , we can process two elements in a loop
 *  Both pointers start from first index and move until they meet
