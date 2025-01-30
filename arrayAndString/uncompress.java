@@ -3,8 +3,8 @@ package arrayAndString;
 /*
 *  We used two pointers approach to solve this.
 *  Pointers refer to index , we can process two elements in a loop
-*  Both pointers start from first index and move until they meet
-*  One move with slow pace and another with fast pace.
+*  Both pointers start from their perspective index as algorithm needs
+*  and moved until they meet.
 *
 * */
 
