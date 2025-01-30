@@ -30,10 +30,14 @@ public static void main(String[] args) {
 
 - drop any constant factor and smaller terms in a sum
 
-#### Array & String
+### Array & String
 
 1. Time complexity of finding a specified key in ***HashMap*** is O(1).
 2. If you put same key with different value , only last input is what you can get.
 3. If there is no key , what returns is *NUll*.
 4. Two pointers approach is used in finding solution comparing each element list or array instead of nested looping which made time complexity double.
-5. 
+
+### Beginner Recursion
+
+- When a function calls itself , it is recursive
+- When a function uses a loop , it is iterative
