@@ -41,3 +41,4 @@ public static void main(String[] args) {
 
 - When a function calls itself , it is recursive
 - When a function uses a loop , it is iterative
+- When a problem can be divided into similar and smaller subproblems , you can use recursion.
