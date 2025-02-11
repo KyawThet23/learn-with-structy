@@ -17,7 +17,7 @@ public static void main(String[] args) {
     System.out.println("""
             All the solutions are based with JAVA !!!
             """);
-}
+}ၑ
 ```
 ### Big O Notation
 
@@ -42,3 +42,9 @@ public static void main(String[] args) {
 - When a function calls itself , it is recursive
 - When a function uses a loop , it is iterative
 - When a problem can be divided into similar and smaller subproblems , you can use recursion.
+
+### Linked List
+
+- Linked List ဆိုတာ element တွေကို node တစ်ခုခြင်းစီမှာ သိမ်းထားပြီး   
+  node တွေနဲ့ နောက်ကပ်လျက် element ကိုပဲ မှတ်သားစေခြင်းဖြင့် memory ပေါ်မှာ    
+  စိတ်ကြိုက်သိမ်းလို့ ရတဲ့ data structure ဖြစ်ပါတယ် ။
