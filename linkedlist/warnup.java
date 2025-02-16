@@ -1,6 +1,7 @@
-package linkedList;
+package linkedlist;
 
-public class findLinkedList {
+public class warnup {
+
     public static void main(String[] args) {
 
         Node<Integer> a = new Node<>(10);  
@@ -9,17 +10,14 @@ public class findLinkedList {
         
         a.next = b;
         b.next = c;
+        System.out.println(a.next.value);
+    }
 
-        System.out.println(solution(a,30));
-    }   
-    private static <T> boolean solution(Node<T> head,T target){
+    private static void list(Node head){
         Node current = head;
         while (current != null) {
-            if(current.value == target){
-                return true;
-            }
+            System.out.println(current.value);
             current = current.next;
         }
-        return false;
-    } 
+    }
 }

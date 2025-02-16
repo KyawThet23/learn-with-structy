@@ -1,6 +1,6 @@
-package linkedList;
+package linkedlist;
 
-public class getLinkedList {
+public class GetLinkedList {
     public static void main(String[] args) {
         Node<Integer> a = new Node<>(10);  
         Node<Integer> b = new Node<>(20); 
