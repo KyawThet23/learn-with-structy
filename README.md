@@ -17,7 +17,7 @@ public static void main(String[] args) {
     System.out.println("""
             All the solutions are based with JAVA !!!
             """);
-}ၑ
+}
 ```
 ### Big O Notation
 
