@@ -48,3 +48,13 @@ public static void main(String[] args) {
 - Linked List ဆိုတာ element တွေကို node တစ်ခုခြင်းစီမှာ သိမ်းထားပြီး   
   node တွေနဲ့ နောက်ကပ်လျက် element ကိုပဲ မှတ်သားစေခြင်းဖြင့် memory ပေါ်မှာ    
   စိတ်ကြိုက်သိမ်းလို့ ရတဲ့ data structure ဖြစ်ပါတယ် ။
+
+### Binary Tree
+- depth first traversal
+- breadth first traversal
+
+#### Binary tree ?
+1. Parent-child relationship between nodes.
+2. Only one root node.
+3. Upmost 2 children per node.
+4. Only a path way between root and any node.
