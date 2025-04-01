@@ -58,3 +58,7 @@ public static void main(String[] args) {
 2. Only one root node.
 3. Upmost 2 children per node.
 4. Only a path way between root and any node.
+
+#### Stack and Queue
+- Stack is first in , last out
+- Queue is first in , first out
