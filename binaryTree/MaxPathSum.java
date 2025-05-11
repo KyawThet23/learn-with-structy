@@ -21,10 +21,10 @@ public class MaxPathSum {
         // / \ \
         // 4 -2 1
 
-        System.out.println(MaxPathSum(a)); // -> 18
+        System.out.println(maxPathSum(a)); // -> 18
     }
     
-    private static double MaxPathSum(Node<Double> root) {
+    private static double maxPathSum(Node<Double> root) {
         if (root == null) {
             return 0;
         }
@@ -32,6 +32,6 @@ public class MaxPathSum {
             return root.val;
         }
 
-        return root.val + Math.max(MaxPathSum(root.left), MaxPathSum(root.right));
+        return root.val + Math.max(maxPathSum(root.left), maxPathSum(root.right));
     }
 }
